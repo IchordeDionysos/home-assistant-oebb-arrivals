@@ -55,9 +55,9 @@ class OebbStationCard extends HTMLElement {
     }
   
     // 5. Define the size of the card (optional but good practice)
-    getCardSize() {
-      return 3;
-    }
+    // getCardSize() {
+    //   return 3;
+    // }
   }
   
   // 6. Register the card with Home Assistant
