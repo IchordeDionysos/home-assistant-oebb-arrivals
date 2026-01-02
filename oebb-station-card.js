@@ -20,7 +20,7 @@ class OebbStationCard extends HTMLElement {
       
       this.content.innerHTML = `
         <iframe 
-          style="width: 100%; height: 100%; border: none;" 
+          style="width: 100%; height: 100%; border: none; border-radius: var(--ha-card-border-radius, var(--ha-border-radius-lg));" 
           srcdoc='${widgetHtml}'>
         </iframe>
       `;
