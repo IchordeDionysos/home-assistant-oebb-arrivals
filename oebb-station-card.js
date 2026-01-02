@@ -9,7 +9,7 @@ class OebbStationCard extends HTMLElement {
       // 2. Create the container
       const card = document.createElement('ha-card');
       this.content = document.createElement('div');
-      this.content.style.padding = '0';
+      this.content.style.padding = '32px';
       this.content.style.height = config.height || '400px'; // Allow user to set height
       card.appendChild(this.content);
       this.appendChild(card);
