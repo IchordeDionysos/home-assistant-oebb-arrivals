@@ -1,5 +1,5 @@
 {
-  "name": "ÖBB Station Monitor",
+  "name": "ÖBB Widget",
   "render_readme": true,
-  "filename": "oebb-station-card.js"
+  "filename": "oebb-widget.js"
 }
