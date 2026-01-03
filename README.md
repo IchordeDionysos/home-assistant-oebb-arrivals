@@ -5,7 +5,7 @@ The card allows you to configure the widget flexibly to your needs via the offic
 
 ## Installation via HACS
 
-[![Open your Home Assistant instance and open a repository inside the Home Assistant Community Store.](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=IchordeDionysos&repository=home-assistant-oebb-widget&category=Dashboard)
+[![Open your Home Assistant instance and open a repository inside the Home Assistant Community Store.](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=IchordeDionysos&repository=home-assistant-oebb-widget&category=plugin)
 
 _Or manually:_
 
