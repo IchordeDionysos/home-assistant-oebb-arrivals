@@ -28,7 +28,7 @@ class OebbCard extends HTMLElement {
         <head>
             <meta charset="utf-8">
             <style>body { margin: 16px 0; background: transparent; }</style>
-            <script src="https://fahrplan.oebb.at/webapp/staticfiles/hafas-widget-core.1.0.0.js?language=de_DE"></script>
+            <script src="https://fahrplan.oebb.at/webapp/staticfiles/hafas-widget-core.1.0.0.js?language=${config.language || 'en_GB'}"></script>
         </head>
         <body>
             ${config.widget}
