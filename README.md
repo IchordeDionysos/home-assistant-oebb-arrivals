@@ -41,6 +41,7 @@ You need to first create the widget via the ÖBB configurator.
 ```yaml
 type: custom:oebb-card
 widget: <div data-hfs-widget="true" [... your widget configuration ...]></div>
+language: en_GB # Or: de_DE, it_IT; Defaults to English
 hide_background: true
 grid_options: # Optional, use this for a dashboard with only a single ÖBB widget.
   columns: full
